@@ -64,7 +64,7 @@ function draw_title(){
   text("Graph", w/3 - textWidth('Graph')/2, h/2);
   text("Algorithms", w/3 - textWidth('Algorithms')/2, h/2 + 20);
   textSize(15);
-  text("@lafifii", 5, 20);
+  text("@ienitk", 5, 20);
 }
 
 function  mouseReleased(){
